@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Лев Дубовский](https://up.htmlacademy.ru/htmlcss/22/user/827715).
-* Наставник: [Анна Понаморёва](https://htmlacademy.ru/profile/id153610).
+* Наставник: [Анна Пономарёва](https://htmlacademy.ru/profile/id153610).
 
 ---
 
